@@ -1,0 +1,7 @@
+print ("Name" ":" "Nazia Kiran")
+print ("Father Name" ":" "Muhammad Shafi")
+print ("Qualification" ":" "MSc")
+print ("Cnic" ":" "42101-8816860-8")
+print ("Address" ":" "House no R 864 sector 15 A/1 Bufferzone, Karachi")
+print ("Date of birth" ":" "July 12, 1987")
+print ("Marital Status" ":" "Single")
